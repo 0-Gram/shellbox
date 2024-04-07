@@ -6,11 +6,11 @@
   <br>
   <h3>How To Use & Install ?</h3>
 <pre>
-```
+
 git clone https://github.com/0-Gram/shellbox
 cd shellbox
 pip install colorama
 pip install csv
 python3 shellbox.py
-```</pre>
+</pre>
 </div>
